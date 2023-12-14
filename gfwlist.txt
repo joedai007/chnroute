@@ -136,6 +136,7 @@
 a-normal-day.com
 a248.e.akamai.net
 a5.com.ru
+aadrm.com
 aamacau.com
 abc.com
 abc.net.au
@@ -165,6 +166,8 @@ acgnx.se
 acmedia365.com
 acmetoy.com
 acnw.com.au
+acompli.com
+acompli.net
 actfortibet.org
 actimes.com.au
 activpn.com
@@ -227,6 +230,7 @@ alhayat.com
 alicejapan.co.jp
 aliengu.com
 alive.bar
+aljazeera.com
 alkasir.com
 all4mom.org
 allcoin.com
@@ -385,7 +389,9 @@ askstudent.com
 askynz.net
 aspi.org.au
 aspistrategist.org.au
+aspnetcdn.com
 assembla.com
+assets-yammer.com
 assets.bwbx.io
 assimp.org
 astrill.com
@@ -428,6 +434,11 @@ axureformac.com
 azerbaycan.tv
 azerimix.com
 azubu.tv
+azure-apim.net
+azure.com
+azure.net
+azureedge.net
+azurerms.com
 azurewebsites.net
 b-ok.cc
 b0ne.com
@@ -562,6 +573,7 @@ bild.de
 biliworld.com
 billypan.com
 binance.com
+bing.com
 binux.me
 bird.so
 bit-z.com
@@ -1065,6 +1077,7 @@ civildisobediencemovement.org
 civilhrfront.org
 civiliangunner.com
 civilmedia.tw
+civitai.com
 ck101.com
 cl.d0z.net
 clarionproject.org
@@ -1164,6 +1177,7 @@ coolder.com
 coolloud.org.tw
 coolncute.com
 coolstuffinc.com
+cortana.ai
 corumcollege.com
 cos-moe.com
 cosmic.monar.ch
@@ -1211,6 +1225,7 @@ cuihua.org
 cuiweiping.net
 culture.tw
 cumlouder.com
+cursor.so
 curvefish.com
 cusp.hk
 cusu.hk
@@ -1339,6 +1354,7 @@ dharmakara.net
 dhcp.biz
 diaoyuislands.org
 difangwenge.org
+digicert.com
 digiland.tw
 digisfera.com
 digitalnomadsproject.org
@@ -1559,6 +1575,8 @@ englishfromengland.co.uk
 englishpen.org
 enlighten.org.tw
 entermap.com
+entrust.com
+entrust.net
 environment.google
 epa.gov.tw
 epac.to
@@ -2012,6 +2030,7 @@ genius.com
 geocities.co.jp
 geocities.com
 geocities.jp
+geotrust.com
 geph.io
 gerefoundation.org
 get.app
@@ -2030,6 +2049,7 @@ getjetso.com
 getlantern.org
 getmalus.com
 getmdl.io
+getmicrosoftkey.com
 getoutline.org
 getsocialscope.com
 getsync.com
@@ -2043,6 +2063,7 @@ gfsale.com
 gfw.org.ua
 gfw.press
 gfw.report
+gfx.ms
 ggpht.com
 ggssl.com
 ghidra-sre.org
@@ -2067,6 +2088,8 @@ globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
 globalrescue.net
+globalsign.com
+globalsign.net
 globaltm.org
 globalvoices.org
 globalvoicesonline.org
@@ -2091,6 +2114,7 @@ goagent.biz
 goagent.codeplex.com
 goagentplus.com
 gobet.cc
+godaddy.com
 godfootsteps.org
 godns.work
 godoc.org
@@ -2813,6 +2837,7 @@ indiandefensenews.in
 indiemerch.com
 info-graf.fr
 initiativesforchina.org
+inkbunny.net
 inkui.com
 inmediahk.net
 innermongolia.org
@@ -3155,12 +3180,14 @@ lers.google
 lesoir.be
 letou.com
 letscorp.net
+letsencrypt.org
 lflink.com
 lflinkup.com
 lflinkup.net
 lflinkup.org
 lhakar.org
 lhasocialwork.org
+li.taipei
 liangyou.net
 liangzhichuanmei.com
 lianyue.net
@@ -3204,6 +3231,8 @@ liuhanyu.com
 liujianshu.com
 liuxiaobo.net
 liuxiaotong.com
+live.com
+live.net
 livecoin.net
 livedoor.jp
 liveleak.com
@@ -3260,6 +3289,7 @@ luxebc.com
 lvhai.org
 lvv2.com
 lyfhk.net
+lync.com
 lzjscript.com
 lzmtnews.org
 m-team.cc
@@ -3324,6 +3354,7 @@ matome-plus.net
 matrix.org
 matsushimakaede.com
 matters.news
+matters.town
 matthewdgreen.wordpress.com
 mattwilcox.net
 maturejp.com
@@ -3393,6 +3424,14 @@ mh4u.org
 mhradio.org
 michaelanti.com
 michaelmarketl.com
+microsoft
+microsoft.com
+microsoft365.com
+microsoftazuread-sso.com
+microsoftonline-p.com
+microsoftonline.com
+microsoftstream.com
+microsoftusercontent.com
 microvpn.com
 middle-way.net
 mihk.hk
@@ -3475,6 +3514,7 @@ molihua.org
 mondex.org
 money-link.com.tw
 moneyhome.biz
+monica.im
 monitorchina.org
 monocloud.me
 monster.com
@@ -3503,9 +3543,20 @@ mrbonus.com
 mrface.com
 mrslove.com
 mrtweet.com
+ms
 msa-it.org
+msauth.net
+msauthimages.net
+msecnd.net
+msft.net
+msftauth.net
+msftauthimages.net
+msftidentity.com
 msguancha.com
 msha.gov
+msidentity.com
+msn.com
+msocdn.com
 mswe1.org
 mthruf.com
 mtw.tl
@@ -3834,6 +3885,10 @@ odysee.com
 odysee.tv
 oex.com
 offbeatchina.com
+office.com
+office.net
+office365.com
+officeapps.live.com
 officeoftibet.com
 ofile.org
 ogaoga.org
@@ -3857,15 +3912,19 @@ olympicwatch.org
 omct.org
 omgili.com
 omni7.jp
+omniroot.com
 omnitalk.com
 omnitalk.org
 omny.fm
 on.cc
 on2.com
 onapp.com
+onedrive.com
 onedrive.live.com
 onedumb.com
 onejav.com
+onenote.com
+onenote.net
 onion.city
 onion.ly
 online.recoveryversion.org
@@ -3873,6 +3932,7 @@ onlinecha.com
 onlineyoutube.com
 onlygayvideo.com
 onlytweets.com
+onmicrosoft.com
 onmoon.com
 onmoon.net
 onmypc.biz
@@ -3923,6 +3983,8 @@ oursogo.com
 oursteps.com.au
 oursweb.net
 ourtv.hk
+outlook.com
+outlookmobile.com
 overcast.fm
 overdaily.org
 overplay.net
@@ -3946,7 +4008,6 @@ padmanet.com
 page.bid.yahoo.com
 page.link
 page2rss.com
-pages.dev
 pagodabox.com
 palacemoon.com
 paldengyal.com
@@ -4026,6 +4087,7 @@ philly.com
 phmsociety.org
 phncdn.com
 phobos.apple.com
+phonefactor.net
 phosphation13.rssing.com
 photodharma.net
 photofocus.com
@@ -4136,6 +4198,8 @@ potato.im
 potvpn.com
 power.com
 powerapple.com
+powerapps.com
+powerautomate.com
 powercx.com
 powerphoto.org
 prayforchina.net
@@ -4187,6 +4251,7 @@ pts.org.tw
 ptt.cc
 pttgame.com
 pttvan.org
+public-trust.com
 pubu.com.tw
 puffinbrowser.com
 puffstore.com
@@ -4505,6 +4570,7 @@ sfileydy.com
 sfshibao.com
 sftindia.org
 sftuk.org
+sfx.ms
 shadeyouvpn.com
 shadow.ma
 shadowsky.xyz
@@ -4526,6 +4592,8 @@ share.ovi.com
 share.youthwant.com.tw
 sharebee.com
 sharecool.org
+sharepoint.com
+sharepointonline.com
 sharpdaily.com.hk
 sharpdaily.hk
 sharpdaily.tw
@@ -4609,6 +4677,8 @@ sketchappsources.com
 skimtube.com
 skybet.com
 skyking.com.tw
+skype.com
+skypeassets.com
 skyvegas.com
 skyxvpn.com
 slacker.com
@@ -4825,14 +4895,20 @@ surfshark.com
 suroot.com
 surrenderat20.net
 sustainability.google
+svc.ms
 svsfx.com
 swagbucks.com
+sway-cdn.com
+sway-extensions.com
+sway.com
 swissinfo.ch
 swissvpn.net
 switch1.jp
 switchvpn.net
 sydneytoday.com
 sylfoundation.org
+symcb.com
+symcd.com
 syncback.com
 synergyse.com
 sysresccd.org
@@ -5183,9 +5259,9 @@ tparents.org
 tpi.org.tw
 tracfone.com
 tradingview.com
+trafficmanager.net
 trans.wenweipo.com
 translate.goog
-translate.google
 transparency.org
 treemall.com.tw
 trendsmap.com
@@ -5511,6 +5587,8 @@ venetianmacao.com
 ventureswell.com
 veoh.com
 vercel.app
+verisign.com
+verisign.net
 vermonttibet.org
 versavpn.com
 verybs.com
@@ -5547,6 +5625,7 @@ vinniev.com
 vip-enterprise.com
 virtualrealporn.com
 visibletweets.com
+visualstudio.com
 vital247.org
 viu.com
 viu.tv
@@ -5584,7 +5663,6 @@ vovo2000.com
 voxer.com
 voy.com
 vpn.ac
-vpn.cjb.net
 vpn.cmu.edu
 vpn.sv.cmu.edu
 vpn4all.com
@@ -5770,6 +5848,10 @@ wikiwiki.jp
 wildammo.com
 williamhill.com
 willw.net
+windows-ppe.net
+windows.com
+windows.net
+windowsazure.com
 windowsphoneme.com
 windscribe.com
 wingamestore.com
@@ -5995,6 +6077,8 @@ yahoo.com.hk
 yakbutterblues.com
 yam.com
 yam.org.tw
+yammer.com
+yammerusercontent.com
 yande.re
 yanghengjun.com
 yangjianli.com
